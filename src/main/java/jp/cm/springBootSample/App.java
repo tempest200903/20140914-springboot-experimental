@@ -1,4 +1,4 @@
-package jp.cm.springBootSample;
+package jp.cm.springbootsample;
 
 /**
  * Hello world!
